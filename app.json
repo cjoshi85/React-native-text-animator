@@ -1,0 +1,12 @@
+{
+  "name": "text-animator-app",
+  "displayName": "text-animator-app",
+  "expo": {
+    "name": "text-animator-app",
+    "slug": "text-animator-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
